@@ -177,6 +177,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{AFCC6E88-DAE0-3430-BC08-336403BF86AF}</Project>
       <Name>MathFunctions</Name>
     </ProjectReference>
+    <ProjectReference Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step2_build\MathFunctions\SqrtLibrary.vcxproj">
+      <Project>{6A8EF309-C376-32BA-8417-19474245053D}</Project>
+      <Name>SqrtLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step2_build\Tutorial.vcxproj">
       <Project>{687B4908-14B8-3A4F-9C1F-CB669BA7F329}</Project>
       <Name>Tutorial</Name>

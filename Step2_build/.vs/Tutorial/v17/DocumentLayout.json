@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\cmake_playground\\cmake-3.30.3-tutorial-source\\Step2_build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687B4908-14B8-3A4F-9C1F-CB669BA7F329}|Tutorial.vcxproj|F:\\cmake_playground\\cmake-3.30.3-tutorial-source\\Step2\\tutorial.cxx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tutorial.cxx",
+              "DocumentMoniker": "F:\\cmake_playground\\cmake-3.30.3-tutorial-source\\Step2\\tutorial.cxx",
+              "RelativeDocumentMoniker": "..\\Step2\\tutorial.cxx",
+              "ToolTip": "F:\\cmake_playground\\cmake-3.30.3-tutorial-source\\Step2\\tutorial.cxx",
+              "RelativeToolTip": "..\\Step2\\tutorial.cxx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T06:50:06.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

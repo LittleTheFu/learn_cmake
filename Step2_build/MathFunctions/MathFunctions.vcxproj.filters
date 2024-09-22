@@ -4,9 +4,6 @@
     <ClCompile Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step2\MathFunctions\MathFunctions.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step2\MathFunctions\mysqrt.cxx">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step2\MathFunctions\CMakeLists.txt" />
