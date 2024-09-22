@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step3\MathFunctions\MathFunctions.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\cmake_playground\cmake-3.30.3-tutorial-source\Step3\MathFunctions\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{00BC68EE-3F6F-352E-9A8F-6A860C70058B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
