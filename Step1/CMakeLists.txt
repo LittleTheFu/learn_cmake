@@ -4,6 +4,9 @@ cmake_minimum_required(VERSION 3.10)
 # TODO 2: Create a project named Tutorial
 project(Tutorial)
 
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
 add_executable(Tutorial tutorial.cxx)
 
 # TODO 7: Set the project version number as 1.0 in the above project command
